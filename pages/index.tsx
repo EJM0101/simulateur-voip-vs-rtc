@@ -46,12 +46,12 @@ export default function Home() {
         <StepCard
           title="Téléphonie RTC"
           message={current.rtc}
-          image="../public/rtc.png"
+          image="rtc.png"
         />
         <StepCard
           title="Téléphonie VoIP"
           message={current.voip}
-          image="../public/voip.png"
+          image="voip.png"
         />
       </div>
 
