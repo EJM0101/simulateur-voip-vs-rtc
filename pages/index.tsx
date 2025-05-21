@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import StepCard from '../components/StepCard';
+import '../styles/globals.css';
 
 const steps = [
   {
