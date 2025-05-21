@@ -1,4 +1,17 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Tu peux ajouter ici des styles globaux personnalisés */
+
+body {
+  @apply bg-gray-100 text-gray-800 font-sans;
+}
+
+h1, h2, h3 {
+  @apply font-semibold text-gray-900;
+}
+
+button {
+  @apply transition duration-200 ease-in-out;
+}
