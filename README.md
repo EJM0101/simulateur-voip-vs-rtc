@@ -19,7 +19,7 @@ Ce projet est une application pédagogique Next.js hébergeable sur Vercel qui s
 ## Installation
 
 ```bash
-git clone https://github.com/ton-username/simulateur-voip-vs-rtc.git
+git clone https://github.com/EJM0101/simulateur-voip-vs-rtc.git
 cd simulateur-voip-vs-rtc
 npm install
 npm run dev
